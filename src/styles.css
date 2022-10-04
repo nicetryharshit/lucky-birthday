@@ -1,0 +1,63 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  margin: 0;
+  padding: 0;
+}
+section {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin: auto;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  max-width: 50vw;
+}
+
+.calc-body {
+  border: 2px solid rgb(173, 235, 178);
+  border-radius: 10px;
+  background-color: rgb(173, 235, 178);
+}
+.result {
+  border: 2px solid rgb(173, 235, 178);
+  border-radius: 10px;
+  background-color: rgb(173, 235, 178);
+}
+
+input {
+  padding: 0;
+  max-width: 150px;
+  height: 30px;
+  margin: auto;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  border-radius: 5px;
+  border-width: 1px;
+  text-align: center;
+  font-size: larger;
+}
+
+label {
+  padding: 0;
+  margin: auto;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  text-decoration-style: solid;
+  text-decoration: underline;
+}
+
+button {
+  margin: auto;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  height: 25px;
+  border-radius: 8px;
+  border-width: 0;
+  color: #333333;
+  cursor: pointer;
+  min-width: 80px;
+  min-height: 30px;
+}
