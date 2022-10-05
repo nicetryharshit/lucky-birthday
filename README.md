@@ -1,6 +1,6 @@
-# Fun with triangles
-App to do fun things releted to triangles.
-> this is the project for the marktwelve
-- Calculate hypotenuse and area of triangle.
-- A comprehensive triangle quiz
-- Made with react.
+# find-lucky-birthday
+The app tells you whether your birthday is lucky or not.
+> this is the project for the markEleven
+- Use input field to input your birthdate and lucky number.
+- The app will calculate and let you know if your birthdate is lucky.
+- Made with React.
