@@ -17,14 +17,14 @@ section {
 }
 
 .calc-body {
-  border: 2px solid rgb(173, 235, 178);
+  border: 2px solid rgb(218, 174, 134);
   border-radius: 10px;
-  background-color: rgb(173, 235, 178);
+  background-color: rgb(218, 174, 134);
 }
 .result {
-  border: 2px solid rgb(173, 235, 178);
+  /* border: 2px solid rgb(173, 235, 178); */
   border-radius: 10px;
-  background-color: rgb(173, 235, 178);
+  /* background-color: rgb(173, 235, 178); */
 }
 
 input {
